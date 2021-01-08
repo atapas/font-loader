@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  display: flex;
+  padding: 10px;
+  margin: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  border: 1px solid #333333;
+  border-radius: 4px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.font-link {
+  font-family: 'Hanalei Fill', cursive;
+}
+
+.font-loader {
+  font-family: 'Chilanka';
+}
+
+.font-face-gm {
+  font-family: "GoldmanBold";
+}
+
